@@ -1,5 +1,7 @@
 # Regressao_linear_do_zero
 
+> :construction: Projeto em construção :construction:
+
 Regressão linear é um método estatístico que busca modelar a relação entre uma variável dependente (ou resposta) e uma ou mais variáveis independentes (ou preditoras). Essa técnica é amplamente utilizada na análise de dados e é especialmente útil quando queremos entender o padrão de comportamento de uma variável em relação a outras.
 
 A regressão linear assume que existe uma relação linear entre as variáveis, o que significa que o relacionamento entre elas pode ser aproximado por uma linha reta. O objetivo é encontrar a melhor linha reta que minimize a diferença entre os valores previstos pelo modelo e os valores reais observados nos dados. Essa linha é conhecida como "linha de regressão".
